@@ -1,3 +1,5 @@
+workflow_dispatch
+
 name: Android CI
 
 on:
